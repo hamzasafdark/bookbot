@@ -1,2 +1,2 @@
 # Bookbot!
-## An interactive agent to curate and organize your personal library
+## An interactive CLI tool to analyze facts about books in your library
